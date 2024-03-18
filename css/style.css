@@ -49,3 +49,22 @@
     font-size: 15px;
     margin-left: 10px;
 }
+
+.photoInfo{
+    margin-top: 20px;
+}
+
+.photoSection{
+    margin-left: 10px;
+    height: 580px;
+    width: auto;
+}
+
+.imgSize{
+    height: 100%;
+    width: auto;
+}
+
+.photoDesc{
+    margin-left: 10px;
+}
