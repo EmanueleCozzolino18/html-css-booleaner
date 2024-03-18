@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.headerCont{
+    background-color: #4EA0FF;
+    height: 120px;
+}
+
+.headerPattern{
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    height: 120px;
+    width: auto;
+    margin-top: 0;
+}
+
+#logo {
+    height: 60px;
+    width: auto;
+    margin-top: 65px;
+    padding: 10px;
+}
