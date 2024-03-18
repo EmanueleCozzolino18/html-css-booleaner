@@ -1,15 +1,15 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-.headerCont{
+.headerCont {
     background-color: #4EA0FF;
     height: 120px;
 }
 
-.headerPattern{
+.headerPattern {
     background-image: url(../img/pattern.png);
     background-repeat: repeat;
     height: 120px;
@@ -23,53 +23,54 @@
     margin-top: 65px;
     padding: 10px;
 }
-.topInformation h1{
+
+.topInformation h1 {
     font-size: 60px;
     margin-top: 10px;
     margin-left: 10px;
 }
 
-.info{
+.info {
     color: #7C7C7C;
     font-weight: bold;
     font-size: 20px;
     margin-left: 10px;
 }
 
-.author{
+.author {
     color: #66C3ED;
     font-weight: bold;
     font-size: 20px;
     margin-left: 10px;
 }
 
-.date{
+.date {
     color: #7C7C7C;
     font-weight: bold;
     font-size: 15px;
     margin-left: 10px;
 }
 
-.photoInfo{
+.photoInfo {
     margin-top: 20px;
 }
 
-.photoSection{
+.photoSection {
     margin-left: 10px;
     height: 580px;
     width: auto;
 }
 
-.imgSize{
+.imgSize {
     height: 100%;
     width: auto;
 }
 
-.photoDesc{
+.photoDesc {
     margin-left: 10px;
 }
 
-.news p{
+.news p {
     margin-top: 30px;
     margin-left: 10px;
     font-size: 20px;
@@ -78,37 +79,60 @@
 mark {
     background-color: #FFFF00;
     color: #000;
-  }
+}
 
-  .unorderedList{
+.unorderedList {
     margin-top: 30px;
     margin-left: 30px;
     font-size: 20px;
-  }
+}
 
-.tableInfo{
+.tableInfo {
     margin-top: 30px;
     margin-left: 10px;
     margin-right: 10px;
 }
 
-  table{
+table {
     border-collapse: collapse;
     font-size: 20px;
-  }
+}
 
-  th{
+th {
     color: white;
     background-color: #20A9E5;
     text-align: left;
     width: 600px;
-  }
+}
 
-.tdcolor{
+.tdcolor {
     background-color: #B1E5F2;
 }
 
-.tableDesc p{
+.tableDesc p {
     margin-top: 30px;
     font-size: 20px;
+}
+
+.footPage {
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.imageUno h2{
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    color: white;
+    padding: 15px;
+}
+
+.imageDue h2{
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    color: white;
+    padding: 15px;
 }
